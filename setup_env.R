@@ -17,7 +17,7 @@ print(paste("started at :", Sys.time()))
 
 print("loading libraries.")
 #create vector of libraries and pass into the above function.
-libraries <- c("data.table","dtplyr","dplyr","readr","ggplot2", "RcolorBrewer")
+libraries <- c("data.table","dtplyr","dplyr","readr","ggplot2", "RColorBrewer")
 ipak(libraries)
 
 #remove the objects since they will not be used again this session
