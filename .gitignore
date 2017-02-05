@@ -45,3 +45,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+.Rhistory
+.Rproj.user/
+data/
+.Rproj.user
